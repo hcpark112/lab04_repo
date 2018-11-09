@@ -4,11 +4,11 @@ body {
 }
 
 a:link {
-  color: #00303f;
+  color: #efefef;
 }
 
 a:visited{
-  color: #00303f;
+  color: #efefef;
 }
 
 input[type=image]:hover{
@@ -97,7 +97,7 @@ input[type=image]:active {
 #categories {
   position: relative;
   display: inline-flex;
-  background-color: #eefeff;
+  background-color: #232323;
   height: calc(40vh - 46px);
   width: 80vw;
   float: right;
@@ -145,7 +145,7 @@ input[type=image]:active {
   font-size: 16pt;
   font-weight: 500;
   text-align: center;
-  color: #000000;
+  color: #efefef;
 }
 
 #leftbar {
@@ -167,7 +167,7 @@ input[type=image]:active {
 }
 
 #topbar {
-  background-color: #eefeff;
+  background-color: #232323;
   height: 45px;
   border-bottom: 1px solid black;
 }
